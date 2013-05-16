@@ -1,0 +1,36 @@
+= RPC (Remote Procedure Call)
+{<img src="https://secure.travis-ci.org/fialao/rpc.png" alt="Build Status" />}[http://travis-ci.org/fialao/rpc]
+{<img src="https://gemnasium.com/fialao/rpc.png" alt="Dependency Status" />}[https://gemnasium.com/fialao/rpc]
+{<img src="https://codeclimate.com/github/fialao/rpc.png" alt="Code Climate" />}[https://codeclimate.com/github/fialao/rpc]
+{<img src="https://coveralls.io/repos/fialao/rpc/badge.png" alt="Coverage Status" />}[https://coveralls.io/r/fialao/rpc]
+
+A library for working with RPC.
+
+
+== Changelog
+
+Visit {revision.io}[http://revision.io/rpc]
+
+
+== Installation
+
+Add this line to your application's Gemfile:
+
+  gem 'rpc'
+
+And then execute:
+
+  $ bundle
+
+Or install it yourself as:
+
+  $ gem install rpc
+
+
+== Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Added some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request

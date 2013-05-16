@@ -1,0 +1,4 @@
+--title "RPC (Remote Procedure Call)"
+--no-private
+--default-return ''
+--exclude railtie --exclude generator
